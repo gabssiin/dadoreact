@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dadoreact/static/css/main.a25a1556.css",
+    "main.js": "/dadoreact/static/js/main.fa8614d2.js",
+    "static/js/453.382bbf9a.chunk.js": "/dadoreact/static/js/453.382bbf9a.chunk.js",
+    "index.html": "/dadoreact/index.html",
+    "main.a25a1556.css.map": "/dadoreact/static/css/main.a25a1556.css.map",
+    "main.fa8614d2.js.map": "/dadoreact/static/js/main.fa8614d2.js.map",
+    "453.382bbf9a.chunk.js.map": "/dadoreact/static/js/453.382bbf9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a25a1556.css",
+    "static/js/main.fa8614d2.js"
+  ]
+}
